@@ -1,10 +1,15 @@
 # Full-Stack E-Commerce Platform
 
+### Visit the Application at : 
+https://assignment-1-coral-theta.vercel.app/
+
 This project is a next-generation e-commerce platform that connects buyers and sellers with personalized recommendations and a seamless user experience. The platform includes:
 
 - **Buyers**: Search, browse, and purchase products.
 - **Sellers**: Upload and manage product listings, orders, and analytics.
 - **Admins**: Oversee platform operations, manage users, and resolve disputes.
+
+
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
